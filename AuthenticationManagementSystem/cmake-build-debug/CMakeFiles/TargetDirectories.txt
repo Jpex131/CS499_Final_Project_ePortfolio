@@ -1,0 +1,3 @@
+/home/kaliadmin/CLionProjects/AuthenticationManagementSystem/cmake-build-debug/CMakeFiles/AuthenticationManagementSystem.dir
+/home/kaliadmin/CLionProjects/AuthenticationManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kaliadmin/CLionProjects/AuthenticationManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
