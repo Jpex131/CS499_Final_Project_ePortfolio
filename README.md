@@ -15,6 +15,7 @@ Together, these artifacts form a cohesive narrative of my growth as a computer s
 
 
 ## Code Review Introduction
+# Code Review Video: https://youtu.be/s0WeJVkr4gI
 
 ### Authentication Management System (Software Design and Engineering)
 - **Overview**: A project initially developed for IT 145, focusing on secure login and role-based access controls for a zoo management application. It demonstrates my skills in transitioning from Java to C, implementing secure authentication mechanisms, and database integration.
